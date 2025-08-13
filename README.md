@@ -23,3 +23,6 @@ I’m **Ruize Xia** (xiaruize0911), a student at **Nanjing Foreign Language Scho
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀
+
+ <a href='https://www.free-counters.org/'>Get free Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=e015fe8ee2c1842b07210e1e852ebb4271c3bb71'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1376206/t/2"></script>
